@@ -1,0 +1,24 @@
+# to create a new project, perform in terminal:
+> cargo new <project name>
+
+EXAMPLE:
+> cargo new hello_world
+
+
+# it will be a directory.
+# open the directory > src (open it)
+# you will see main.rs
+
+# ======== HOW TO RUN? ======== #
+
+# first save changes in ur code (CTRL + S)
+# go to the new cargo directory
+# e.g. cd .\intro_rust\
+# type:
+    cargo build
+
+# then type: 
+    cargo run
+
+# DONE!
+
