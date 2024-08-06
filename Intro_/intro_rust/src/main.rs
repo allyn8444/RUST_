@@ -1,5 +1,3 @@
-
-// Fill the blanks and fix the errors
 fn main() {
     // Integer addition
     assert!(1u32 + 2u32 == 3u32);
